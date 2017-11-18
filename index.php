@@ -1,5 +1,5 @@
 <?php
 
-epoch=$_GET['epoch'];
+$epoch=$_GET['epoch'];
 
 echo $epoch;
